@@ -1,0 +1,38 @@
+.header-div{
+    font-size: 10px;
+    background-color: aqua;
+    padding: 0.2cm;
+    display: flex;
+    height: 50px;
+}
+
+h1{
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+nav{
+    font-size: 25px;
+    margin-left: 39cm;
+    margin-top: 8px;
+}
+
+.firstLink{
+    margin-left: 200px;
+    font-size: 20px;
+}
+
+.secondLink{
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+.thirdLink{
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+.fourthLink{
+    margin-left: 30px;
+    font-size: 20px;
+}

@@ -1,0 +1,17 @@
+.Button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+
+
+.Button button{
+    padding: 8px;
+    border-radius: 200px;
+    width: 300px;
+    font-size: 30px;
+    background-color: gray;
+    color: black;
+    cursor: pointer;
+}

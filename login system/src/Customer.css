@@ -1,0 +1,20 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.column{
+    margin-left: 60px;
+    flex: 30%;
+    padding: 10px;
+}
+
+.column img{
+    width: 5cm;
+    padding: 1px;
+}
+
+h6{
+    font-size: 20px;
+}

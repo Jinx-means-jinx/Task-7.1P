@@ -1,0 +1,72 @@
+.footer{
+    background-color: aqua;
+    height: 400px;
+}
+
+.title{
+    font-size: 40px;
+    padding: 10px;
+}
+
+h7
+{
+    margin-left: 30px
+}
+
+h8{
+    margin-left: 850px;
+}
+
+h9{
+    margin-left: 850px;
+}
+
+.link{
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.firstColumn{
+    padding: 10px;
+    position: absolute;
+}
+
+.secondColumn{
+    margin-left: 1050px;
+    margin-bottom: 50px;
+    padding: 10px;
+    position: absolute;
+}
+
+.thirdColumn{
+    padding: 10px;
+    margin-left: 2100px;
+    font-size: 80px;
+}
+
+.titleBottom{
+    text-align: center;
+}
+
+h10{
+    font-size: 40px;
+    padding: 10px;
+}
+
+.bottomRow{
+    font-size: 20px;
+    padding: 10px;
+}
+
+.firstLink1{
+    margin-right: 200px;
+}
+
+.secondLink1{
+    margin-right: 400px;
+   
+}
+
+.thirdLink1{
+    margin-left: -200px; 
+}
